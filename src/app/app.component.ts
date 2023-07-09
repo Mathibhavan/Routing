@@ -8,4 +8,5 @@ import { Test } from './test';
 })
 export class AppComponent {
   title = 'Routing';
+  <i class="fa fa-home" aria-hidden="true"></i>
 }
